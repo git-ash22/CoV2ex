@@ -41,7 +41,7 @@ b. The dataset gives the sentiment scores of 12,705 tweets with tweets from arou
 5. Label 2’s classification was most accurate compared to other labels. 
     a. The F1-Score for label 2 was 87% 
     b. It had a precision score of 89% 
-    c. It had a recall score of 32%
+    c. It had a recall score of 32%. 
     
 #Conclusion
 We implemented sentiment analysis using Naive Bayes machine learning algorithm suitable for problems with text classification and multi classifications and also because a Naive Bayes classifier runs fast, since the computations required are simple sums and logarithms. We did sentiment analysis only on tweets amounting below 25,000. Thus, it need not necessarily illustrate the sentiments of the world as a whole. Most of the tweets are more or less neutral while there are more positive tweets than negative tweets. Which means that in general, the people are trying not to be negative despite the difficult times.
