@@ -7,7 +7,7 @@ The ongoing pandemic had a lot of impacts on human life. Due to the lockdown in 
 2. To collect data from twitter and shown live sentiments in a geographical map representation. Also we displayed the current trending keywords about COVID-19 on the website to give people an idea of the current situation of the pandemic.
 3. To create a helpline for people suffering from mental illness owing to the lockdown and COVID related crisis using question analysis.
 
-#Dataset
+#Data set
 The Project uses two different datasets. Both datasets serve different functionalities to the CoV2eX Website. 
 First dataset is a global twitter dataset that has the tweet as text corresponding to its sentiments. 
  a. This is used in training the model in order to predict the sentiment of a given tweet. 
